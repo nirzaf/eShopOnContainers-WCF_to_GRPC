@@ -2,7 +2,7 @@
    <img src="https://github.com/dotnet-architecture/eShopOnContainers/raw/dev/img/eshop_logo.png" alt="eShop logo" title="eShopOnContainers" align="right" height="60" />
 </a>
 
-![Architecting-Cloud-Native-NET-Apps-for-Azure](https://github.com/nirzaf/eShopOnContainers-WCF_to_GRPC/blob/master/Architecting-Cloud-Native-NET-Apps-for-Azure.pdf)
+- [Architecting Cloud-Native-NET-Apps-for-Azure Download PDF E-Book](https://github.com/nirzaf/eShopOnContainers-WCF_to_GRPC/blob/master/Architecting-Cloud-Native-NET-Apps-for-Azure.pdf)
 
 # .NET Microservices Sample Reference Application
 

@@ -4,6 +4,8 @@
 
 <iframe src="https://github.com/nirzaf/eShopOnContainers-WCF_to_GRPC/blob/master/Architecting-Cloud-Native-NET-Apps-for-Azure.pdf" height="800" width="400"></iframe>
 
+![](eShopOnContainers-WCF_to_GRPC/blob/master/Architecting-Cloud-Native-NET-Apps-for-Azure.pdf)
+
 # .NET Microservices Sample Reference Application
 
 Sample .NET Core reference application, powered by Microsoft, based on a simplified microservices architecture and Docker containers.
